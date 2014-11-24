@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "android_vendor_sony_togari_gpe",
+    "target_path": "vendor/sony/togari_gpe"
+  },
+  {
+    "repository": "android_device_sony_togari",
+    "target_path": "device/sony/togari"
+  }
+]
